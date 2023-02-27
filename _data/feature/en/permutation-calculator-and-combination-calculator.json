@@ -1,0 +1,86 @@
+{
+    "Language": "English",
+    "feature": "compress-pdf",
+    "htmlLangAtt": "en",
+    "H1": "permutation-calculator-and-combination-calculator",
+    "H2": "permutation-calculator-and-combination-calculator",
+    "TITLE": "permutation-calculator-and-combination-calculator",
+    "META": "permutation-calculator-and-combination-calculator",
+    "keywords": "key1,key2,key3,key4",
+    "LABEL": "DOCX to PDF",
+    "BREADCRUMB_LABEL": "DOCX TO PDF",
+    "color": "#3287b2",
+    "height": "300px",
+    "img": "/assets/bulb.svg",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jscdns": [
+        "<script src=\"/js/permutation-calculator-and-combination-calculator.js\"></script>"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Total Amount in a Set (n)",
+                "labelId": "amount",
+                "inputBox": true,
+                "inputId": "amount"
+            },
+            {
+                "labelName": "Amount in each Sub-Set (r)",
+                "labelId": "subset",
+                "inputBox": true,
+                "inputId": "subset"
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate",
+        "ButtonType": "button",
+        "resultDiv": true,
+        "resultDisplay": "none"
+    }
+}

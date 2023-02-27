@@ -1,0 +1,14 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/assets/images/logo.png",
+    "navItems":[
+        {
+         "name":"Blog",
+         "url":"blog"
+        },
+        {
+         "name":"",
+         "url":""
+       }
+     ]
+}

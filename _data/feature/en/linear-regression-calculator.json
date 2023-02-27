@@ -1,0 +1,88 @@
+{
+    "Language": "English",
+    "feature": "compress-pdf",
+    "htmlLangAtt": "en",
+    "H1": "Linear Regression Calculator",
+    "H2": "Write Values in number seperate by comma",
+    "TITLE": "Linear Regression Calculator",
+    "META": "Linear Regression Calculator",
+    "keywords": "key1,key2,key3,key4",
+    "LABEL": "DOCX to PDF",
+    "BREADCRUMB_LABEL": "DOCX TO PDF",
+    "color": "#3287b2",
+    "height": "300px",
+    "img": "/assets/bulb.svg",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jscdns": [
+        "<script src=\"/js/linear-regression-calculator.js\"></script>"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "X Value",
+                "labelId": "xValue",
+                "inputBox": true,
+                "inputId": "xValue",
+                "inputType": "text"
+            },
+            {
+                "labelName": "Y Value",
+                "labelId": "yValue",
+                "inputBox": true,
+                "inputId": "yValue",
+                "inputType": "text"
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate",
+        "ButtonType": "button",
+        "resultDiv": true,
+        "resultDisplay": "none"
+    }
+}
